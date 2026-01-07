@@ -1,5 +1,5 @@
-
 ## Publications, Academic Projects and Thesis
+Below you can find my academic work, including my Bachelor's thesis, publications, and selected projects developed during my studies.
 
 ### Thesis
 <table>
