@@ -4,7 +4,7 @@ Below you can find my academic work, including my Bachelor's thesis, publication
 ### Thesis
 <table>
 <tr> 
-	<td><a href="pdf/bachelor-thesis.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=nDjYPbVE29Us&format=png&color=000000" width="50"><br>Thesis</a></td>
+	<td><a href="pdf/bachelor-thesis.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=42938&format=png&color=000000" width="50"><br>Thesis</a></td>
     <td><a href="slide/bachelor-thesis.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=49306&format=png&color=000000" width="50"><br>Slides</a></td>
 	<td><a href="https://github.com/ffabionski/opawrapper-statemanager.git" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=42900&format=png&color=000000" width="50"><br>Code</a></td>
 	<td>
@@ -23,7 +23,7 @@ Below you can find my academic work, including my Bachelor's thesis, publication
 ### Publications
 <table>
 <tr> 
-	<td><a href="https://ceur-ws.org/Vol-3962/paper49.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=nDjYPbVE29Us&format=png&color=000000" width="50"><br>Paper</a></td>
+	<td><a href="https://ceur-ws.org/Vol-3962/paper49.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=42938&format=png&color=000000" width="50"><br>Paper</a></td>
 	<td>
 	 <details>
 	 <summary><a href="https://ceur-ws.org/Vol-3962/paper49.pdf" target="_blank" rel="noopener noreferrer">OWSM: Empowering Rego for Stateful Access Control</a></summary>
