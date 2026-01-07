@@ -19,3 +19,37 @@
 
 ---
 
+### Publications
+<table>
+<tr> 
+	 <td><a href="https://ceur-ws.org/Vol-3962/paper49.pdf"><img src="https://img.icons8.com/?size=100&id=nDjYPbVE29Us&format=png&color=000000" width="50"><br>DOI</a></td>
+     <!--<td><a href=""><img src="https://img.icons8.com/?size=100&id=49306&format=png&color=000000" width="50"><br>Slides</a></td>-->
+	<td>
+	 <details>
+	 <summary><a href=""></a></summary>
+	 <b>Type: </b>Conference Paper (ITASEC25)<br>
+	 <b>Language: </b>English<br>
+	 <b>Authors: </b> Massimiliano Baldo, Fabio Ionut Ion, Marino Miculan, Matteo Paier, Vincenzo Riccio<br>
+	 </details>
+	 </td>
+</tr>
+
+</table>
+
+---
+
+### Academic Projects
+<table>
+<tr> 
+	 <!--<td><a href=""><img src="https://img.icons8.com/?size=100&id=nDjYPbVE29Us&format=png&color=000000" width="50"><br>Thesis</a></td>-->
+     <td><a href=""><img src="https://img.icons8.com/?size=100&id=49306&format=png&color=000000" width="50"><br>Slides</a></td>
+	<td>
+	 <details>
+	 <summary><a href="">Dense Retrieval</a></summary>
+	 <b>Type: </b>Seminar for the course "Information Retrieval"<br>
+	 <b>Language: </b>English<br>
+	 </details>
+	 </td>
+</tr>
+
+</table>
