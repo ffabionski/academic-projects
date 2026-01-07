@@ -42,7 +42,7 @@
 <table>
 <tr> 
 	 <td></td>
-     <td><a href=""><img src="https://img.icons8.com/?size=100&id=49306&format=png&color=000000" width="50"><br>Slides</a></td>
+     <td><a href="slide/dense-retrieval.pdf"><img src="https://img.icons8.com/?size=100&id=49306&format=png&color=000000" width="50"><br>Slides</a></td>
 	<td>
 	 <details>
 	 <summary><a href="slide/dense-retrieval.pdf">Dense Retrieval</a></summary>
